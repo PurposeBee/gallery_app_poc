@@ -32,7 +32,7 @@ class GalleryController extends ChangeNotifier {
     _isLoading = true;
     notifyListeners();
     final response = await http.get(Uri.https(apiUrl, '/api/',
-        {"key": dotenv.env['PIXABAY_APIKEY'], "q": _searchQuery}));
+        {"key": '43411771-9c53fc7cd47b6c49c42b9c368', "q": _searchQuery}));
     final hits = json.decode(response.body)['hits'] as List<dynamic>;
 
     populateImages(hits);
