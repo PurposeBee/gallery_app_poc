@@ -1,17 +1,6 @@
-# gallery_poc
+# Demo
+![Untitled video - Made with Clipchamp](https://github.com/PurposeBee/gallery_app_poc/assets/142644926/69191384-5f33-40d5-a3fa-8e90de18e3c7)
 
-A new Flutter project.
+![Untitled video - Made with Clipchamp (1)](https://github.com/PurposeBee/gallery_app_poc/assets/142644926/6b1994ac-87d7-470b-8a50-11e297ed2b8a)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# gallery_app_poc
+![Untitled video - Made with Clipchamp (2)](https://github.com/PurposeBee/gallery_app_poc/assets/142644926/816413d0-bb99-41dc-8ca5-df192eb3a9ad)
