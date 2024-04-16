@@ -6,7 +6,11 @@ on:
 jobs:   
   build:
     name: Build & Release  
-    runs-on: macos-latest 
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     
     steps:
         #1 Checkout repository
@@ -49,3 +53,4 @@ jobs:
           with:
             artifacts: "build/app/outputs/flutter-apk/app-release.apk"
             tag: v1.0.${{ github.run_number }}
+            token: ${{ secrets.TOKEN }} 
